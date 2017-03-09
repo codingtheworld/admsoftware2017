@@ -1,3 +1,7 @@
 while($rs = $resultado->fetch_array(MYSQLI_ASSOC)) {
     echo $rs["apellido"];
-}hoafds
+}
+
+/*
+Corregi error
+*/
